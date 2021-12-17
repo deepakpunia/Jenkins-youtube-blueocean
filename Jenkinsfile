@@ -25,7 +25,7 @@ date'''
 
         stage('test par1') {
           steps {
-            sh 'sh "echo \'jai baba ki\'"'
+            sh 'echo \'jai baba ki\''
           }
         }
 
